@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Material 3 Eco Palette - Modo Oscuro -->
+    <color name="verde_ecolim">#81C784</color>
+    <color name="fondo">#121212</color>
+    <color name="primary_eco">#4CAF50</color>
+    <color name="primary_eco_dark">#0E3813</color>
+    <color name="splash_background">#071F0C</color>
+    <color name="primary_eco_container">#1B3B22</color>
+    <color name="on_primary_eco_container">#DCFCE7</color>
+
+    <color name="secondary_eco">#81C784</color>
+    <color name="secondary_eco_container">#1E3A24</color>
+    <color name="on_secondary_eco_container">#DCFCE7</color>
+
+    <color name="tertiary_warm">#D7CCC8</color>
+    <color name="tertiary_warm_container">#3E2723</color>
+
+    <color name="error_eco">#EF4444</color>
+    <color name="error_eco_container">#450A0A</color>
+
+    <!-- Fondos y Superficies de Alto Rendimiento en Modo Oscuro -->
+    <color name="surface_card_expressive">#19241B</color>
+    <color name="surface_bottom_nav">#141C15</color>
+    <color name="background_soft">#0F1710</color>
+    <color name="input_surface">#141C15</color>
+    <color name="input_stroke">#2E4232</color>
+
+    <!-- Tipografía de Alto Contraste para Fondo Oscuro -->
+    <color name="text_primary">#F8FAFC</color>
+    <color name="text_secondary">#CBD5E1</color>
+    <color name="text_muted">#94A3B8</color>
+
+    <!-- Badges de sincronización en Modo Oscuro -->
+    <color name="badge_synced">#4ADE80</color>
+    <color name="badge_pending">#FB923C</color>
+</resources>

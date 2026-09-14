@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "309701601822",
+    "firebase_url": "https://ecolimapp-66853-default-rtdb.firebaseio.com",
+    "project_id": "ecolimapp-66853",
+    "storage_bucket": "ecolimapp-66853.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309701601822:android:b8213955afc717c4cd1c0f",
+        "android_client_info": {
+          "package_name": "com.madrigalsolu.ecolim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV8ug2MDiKkPj3Xp451zmm-X6WEPCUU50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

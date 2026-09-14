@@ -1,0 +1,42 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.EcolimApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary_eco</item>
+        <item name="colorPrimaryContainer">@color/primary_eco_container</item>
+        <item name="colorOnPrimaryContainer">@color/on_primary_eco_container</item>
+        <item name="colorSecondary">@color/secondary_eco</item>
+        <item name="colorSecondaryContainer">@color/secondary_eco_container</item>
+        <item name="colorOnSecondaryContainer">@color/on_secondary_eco_container</item>
+        <item name="colorTertiary">@color/tertiary_warm</item>
+        <item name="colorTertiaryContainer">@color/tertiary_warm_container</item>
+        <item name="colorError">@color/error_eco</item>
+        <item name="colorErrorContainer">@color/error_eco_container</item>
+        <item name="android:windowBackground">@drawable/bg_expressive_canvas</item>
+        <item name="android:statusBarColor">@color/primary_eco_dark</item>
+        <item name="android:navigationBarColor">@color/surface_bottom_nav</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="bottomNavigationStyle">@style/Widget.Ecolim.NavigationBar</item>
+    </style>
+
+    <style name="Theme.EcolimApp" parent="Base.Theme.EcolimApp" />
+
+    <!-- Formas M3 Expressive -->
+    <style name="ShapeAppearance.Ecolim.Pill" parent="ShapeAppearance.Material3.Corner.Full">
+        <item name="cornerSize">50%</item>
+    </style>
+
+    <!-- Bottom Navigation Bar M3 Expressive -->
+    <style name="Widget.Ecolim.NavigationBar" parent="Widget.Material3.BottomNavigationView">
+        <item name="itemIconTint">@color/bottom_nav_ecolim_icon</item>
+        <item name="itemTextColor">@color/bottom_nav_ecolim_text</item>
+        <item name="itemActiveIndicatorStyle">@style/Widget.Ecolim.NavigationBar.ActiveIndicator</item>
+        <item name="backgroundTint">@color/surface_bottom_nav</item>
+        <item name="elevation">8dp</item>
+    </style>
+
+    <style name="Widget.Ecolim.NavigationBar.ActiveIndicator" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:color">@color/secondary_eco_container</item>
+        <item name="android:width">64dp</item>
+        <item name="android:height">32dp</item>
+        <item name="shapeAppearance">@style/ShapeAppearance.Ecolim.Pill</item>
+    </style>
+</resources>

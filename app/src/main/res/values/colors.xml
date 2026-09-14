@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Material 3 Eco Palette (Seed: #2E7D32) -->
+    <color name="verde_ecolim">#2E7D32</color>
+    <color name="fondo">#F5F5F5</color>
+    <color name="primary_eco">#1B5E20</color>
+    <color name="primary_eco_dark">#0E3813</color>
+    <color name="splash_background">#071F0C</color>
+    <color name="primary_eco_container">#C8E6C9</color>
+    <color name="on_primary_eco_container">#002105</color>
+    
+    <color name="secondary_eco">#2E7D32</color>
+    <color name="secondary_eco_container">#DCFCE7</color>
+    <color name="on_secondary_eco_container">#05201B</color>
+
+    <color name="tertiary_warm">#8D6E63</color>
+    <color name="tertiary_warm_container">#FFF3E0</color>
+
+    <color name="error_eco">#BA1A1A</color>
+    <color name="error_eco_container">#FEE2E2</color>
+    
+    <!-- Fondos y Superficies -->
+    <color name="surface_card_expressive">#FFFFFF</color>
+    <color name="surface_bottom_nav">#FFFFFF</color>
+    <color name="background_soft">#F2F6F2</color>
+    <color name="input_surface">#FFFFFF</color>
+    <color name="input_stroke">#C8D6C8</color>
+    
+    <!-- Tipografía de Alto Contraste -->
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#334155</color>
+    <color name="text_muted">#475569</color>
+
+    <!-- Badges de sincronización -->
+    <color name="badge_synced">#16A34A</color>
+    <color name="badge_pending">#EA580C</color>
+</resources>

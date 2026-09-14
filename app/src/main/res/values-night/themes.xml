@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.Theme.EcolimApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary_eco</item>
+        <item name="colorPrimaryContainer">@color/primary_eco_container</item>
+        <item name="colorOnPrimaryContainer">@color/on_primary_eco_container</item>
+        <item name="colorSecondary">@color/secondary_eco</item>
+        <item name="colorSecondaryContainer">@color/secondary_eco_container</item>
+        <item name="colorOnSecondaryContainer">@color/on_secondary_eco_container</item>
+        <item name="colorTertiary">@color/tertiary_warm</item>
+        <item name="colorTertiaryContainer">@color/tertiary_warm_container</item>
+        <item name="colorError">@color/error_eco</item>
+        <item name="colorErrorContainer">@color/error_eco_container</item>
+        <item name="android:windowBackground">@drawable/bg_expressive_canvas</item>
+        <item name="android:statusBarColor">@color/background_soft</item>
+        <item name="android:navigationBarColor">@color/surface_bottom_nav</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="bottomNavigationStyle">@style/Widget.Ecolim.NavigationBar</item>
+    </style>
+</resources>

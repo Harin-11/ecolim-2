@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ECOLIM</string>
+
+    <string-array name="tipos_residuo">
+        <item>Orgánico</item>
+        <item>Plástico</item>
+        <item>Papel/Cartón</item>
+        <item>Vidrio</item>
+        <item>Metal</item>
+        <item>Peligroso</item>
+    </string-array>
+
+    <string-array name="tipos_residuo_filtro">
+        <item>Todos</item>
+        <item>Orgánico</item>
+        <item>Plástico</item>
+        <item>Papel/Cartón</item>
+        <item>Vidrio</item>
+        <item>Metal</item>
+        <item>Peligroso</item>
+    </string-array>
+
+    <string-array name="ubicaciones_empresa">
+        <item>Planta Central - Módulo 1</item>
+        <item>Planta Central - Módulo 2</item>
+        <item>Planta Central - Módulo 3</item>
+        <item>Almacén General</item>
+        <item>Taller de Mantenimiento</item>
+        <item>Zona Norte - Sector A</item>
+        <item>Zona Sur - Comedor</item>
+        <item>Oficinas Administrativas</item>
+    </string-array>
+</resources>

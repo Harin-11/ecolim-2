@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Fondo Base Tonal Suave -->
+    <item>
+        <shape android:shape="rectangle">
+            <gradient
+                android:angle="135"
+                android:startColor="#E6F2E6"
+                android:centerColor="#F0F6EF"
+                android:endColor="#FAF8F5"
+                android:type="linear" />
+        </shape>
+    </item>
+</layer-list>
