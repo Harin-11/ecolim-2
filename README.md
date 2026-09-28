@@ -1,23 +1,19 @@
-# Ecolim-2
+# ecolim-2
 
-> Applicación Android nativa (IDEN Java) para la gestión, segregación y registro de residuos reciclables en entornos empresariales.
-
+> Aplicación Android nativa (Java) para la gestión, segregación y registro de residuos reciclables en entornos empresariales.
 
 ---
 
-
-## ✨ Características
+## Características
 
 - Registro y autenticación de usuarios (login y perfil).
 - Registro de residuos por tipo (Orgánico, Plástico, Papel/Cartón, Vidrio, Metal, Peligroso).
 - Clasificación por ubicación o área de la empresa (Planta Central, Almacén, Taller, Zonas Norte/Sur, etc.).
 - Almacenamiento local con SQLite y estructura extensible para API y sincronización.
 
-
 ---
 
-
-## 🛠 Tecnologías
+## Tecnologías
 
 - Java (Android SDK)
 - Gradle
@@ -26,8 +22,8 @@
 
 ---
 
-## 🚀 Ejecución local
+## Ejecución local
 
 1. Abrir el proyecto en Android Studio.
 2. Sincronizar las dependencias con Gradle.
-3. Compilar y ejecutar en un dispositivo fisíco o emulador (Android 8+).
+3. Compilar y ejecutar en un dispositivo físico o emulador (Android 8+).
